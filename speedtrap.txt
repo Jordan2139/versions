@@ -1,1 +1,5 @@
-1.0.0
+{
+	"NewestVersion":"v1.0.1",
+	"Changes":"Fixed an issue with the version check not working",
+	"DownloadLocation":"https://forum.cfx.re/t/release-speedtrap-first-of-its-kind/1643348"
+}
