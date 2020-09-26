@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.1",
-	"Changes":"Fixed an issue with the version check not working",
+	"NewestVersion":"v1.0.2",
+	"Changes":"Added togglable Discord webhook for further tracking",
 	"DownloadLocation":"https://forum.cfx.re/t/release-speedtrap-first-of-its-kind/1643348"
 }
