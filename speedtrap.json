@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.2",
-	"Changes":"Added togglable Discord webhook for further tracking",
-	"DownloadLocation":"https://forum.cfx.re/t/release-speedtrap-first-of-its-kind/1643348"
+	"NewestVersion":"v1.1.0",
+	"Changes":"Added check for if the player is in a plane or helicopter to ignore the speed",
+	"DownloadLocation":"https://forum.cfx.re/t/release-speedtrap-failrp-driving-monitor-first-of-its-kind/1643348"
 }
