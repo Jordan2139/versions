@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.0",
-	"Changes":"First commit",
-	"DownloadLocation":"https://forum.cfx.re/t/release-non-esx-vehicle-push/1691440"
+	"NewestVersion":"v1.1.0",
+	"Changes":"Added Manager for AI police, EMS, Military and Fire Department. Check the Config.",
+	"DownloadLocation":"https://github.com/Jordan2139/Calm-AI-V3"
 }
