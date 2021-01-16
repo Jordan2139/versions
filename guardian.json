@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.0",
-	"Changes":"First commit",
+	"NewestVersion":"v1.1.0",
+	"Changes":"Emergency fix to a whitelist bypass glitch",
 	"DownloadLocation":"https://forum.cfx.re/t/release-guardian-an-all-new-discord-whitelist/1705447"
 }
