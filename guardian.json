@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.20",
+	"NewestVersion":"v1.2.0",
 	"Changes":"AddEventHandler(playerConnecting... Fix (FINALLY)",
 	"DownloadLocation":"https://forum.cfx.re/t/release-guardian-an-all-new-discord-whitelist/1705447/16"
 }
