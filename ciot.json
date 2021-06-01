@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v2.0.0",
-	"Changes":"Totally revamped CIOT",
+	"NewestVersion":"v2.0.5",
+	"Changes":"Small QOL update, just make sure to replace your client.lua and fxmanifest.lua",
 	"DownloadLocation":"https://discord.gg/RzBSTNFDTN - Use the ?new command to create a ticket"
 }
