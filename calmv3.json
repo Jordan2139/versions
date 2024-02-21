@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.1.0",
-	"Changes":"Added Manager for AI police, EMS, Military and Fire Department. Check the Config.",
+	"NewestVersion":"v1.2.0",
+	"Changes":"Fixed issue with NPC's still wanting to attack you.",
 	"DownloadLocation":"https://github.com/Jordan2139/Calm-AI-V3"
 }
